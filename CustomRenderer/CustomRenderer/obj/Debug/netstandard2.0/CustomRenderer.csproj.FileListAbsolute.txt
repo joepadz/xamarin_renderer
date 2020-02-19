@@ -1,0 +1,13 @@
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\bin\Debug\netstandard2.0\CustomRenderer.deps.json
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\bin\Debug\netstandard2.0\CustomRenderer.dll
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\bin\Debug\netstandard2.0\ref\CustomRenderer.dll
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\bin\Debug\netstandard2.0\CustomRenderer.pdb
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\CustomRenderer.csprojAssemblyReference.cache
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\CustomRenderer.AssemblyInfoInputs.cache
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\CustomRenderer.AssemblyInfo.cs
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\CustomRenderer.dll
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\ref\CustomRenderer.dll
+C:\Users\joelp\code\xamarin\CustomRenderer\CustomRenderer\CustomRenderer\obj\Debug\netstandard2.0\CustomRenderer.pdb

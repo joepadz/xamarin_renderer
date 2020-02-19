@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:local="clr-namespace:CustomRenderer.Renderers"
+             x:Class="CustomRenderer.MainPage" BackgroundColor="LightGray">
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            
+            <local:RoundedEntry Placeholder="Email"></local:RoundedEntry>
+            <local:RoundedEntry Placeholder="Password"></local:RoundedEntry>
+            <local:BorderlessEntry Placeholder="Email"></local:BorderlessEntry>
+            <local:BorderlessEntry Placeholder="Password"></local:BorderlessEntry>
+            <Entry Placeholder="Email Default"/>
+        </StackLayout>
+        
+    </ContentPage.Content>
+    
+    <!--<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".2*"/>
+            <RowDefinition Height=".2*"/>
+            <RowDefinition Height=".2*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <local:RoundedEntry Grid.Column="0" Grid.Row="0"></local:RoundedEntry>
+        <local:RoundedEntry Grid.Column="0" Grid.Row="1"></local:RoundedEntry>
+        <local:RoundedEntry Grid.Column="0" Grid.Row="2"></local:RoundedEntry>
+
+    </Grid>-->
+
+</ContentPage>
